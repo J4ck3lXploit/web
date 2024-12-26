@@ -23,6 +23,7 @@ After viewing the response from the api endpoint we see something interesting. W
 ![image](https://github.com/user-attachments/assets/a4420788-030d-4f8d-a3b8-b0ad6fdcd446)
 
 Going back to the main.js file, we see that the function also checks if the command is in availableOptions['secret'], and if it is, it bypasses everything and gives you the flag
+![image](https://github.com/user-attachments/assets/cf37025b-d35a-4cb6-ba61-143f7d20122a)
 ![image](https://github.com/user-attachments/assets/48591d0e-e055-4e20-9a6e-bccc4ce1f8fb)
 
 
