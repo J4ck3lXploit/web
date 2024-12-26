@@ -1,6 +1,6 @@
 # flag command
 I'm using pwnbox which is a cloud-based virtual machine environment on HTB.
-Flag Command is a simple web challenge on HTB, where you are presented with four questions and options. By guessing correctly or finding a hidden command, you can uncover the flag
+Flag Command is a simple web challenge on HTB, where you are presented with four questions and options. By guessing correctly or finding a hidden command, you can get the flag
 
 Challenge description
 ![image](https://github.com/user-attachments/assets/c2bdf03a-fbfa-4178-a9ed-7d73d658b2c6)
