@@ -19,6 +19,7 @@ By using the the browsers dev tools. I can intercept network traffic and look fo
 ![image](https://github.com/user-attachments/assets/28e29005-19fc-4fc2-ab0f-abe7b31c5da9)
 
 After viewing the response from the api endpoint we see something interesting. We have our four questions with their respetive options, and we also have a secret.
+
 ![image](https://github.com/user-attachments/assets/a4420788-030d-4f8d-a3b8-b0ad6fdcd446)
 
 Going back to the main.js file, we see that the function also checks if the command is in availableOptions['secret'], and if it is, it bypasses everything and gives you the flag
